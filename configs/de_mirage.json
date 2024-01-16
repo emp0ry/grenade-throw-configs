@@ -194,6 +194,21 @@
             "name2": "Stairs",
             "type": 2,
             "style": 0
+        },
+        {
+            "position": {
+                "x": 1399.971924,
+                "y": -427.983765,
+                "z": -167.968689
+            },
+            "angle": {
+                "x": -55.016441,
+                "y": -177.216003
+            },
+            "name1": "Start Mid",
+            "name2": "Start Mid",
+            "type": 2,
+            "style": 0
         }
     ]
 }
