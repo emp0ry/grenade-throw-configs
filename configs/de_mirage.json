@@ -415,10 +415,25 @@
                 "x": -33.066101,
                 "y": -168.946381
             },
-            "name1": "Window",
+            "name1": "Window, Conector",
             "name2": "Window",
             "type": 2,
             "style": 3
+        },
+        {
+            "position": {
+                "x": 1376.000000,
+                "y": -112.000000,
+                "z": -163.965088
+            },
+            "angle": {
+                "x": -14.536972,
+                "y": -161.192093
+            },
+            "name1": "",
+            "name2": "Conector",
+            "type": 2,
+            "style": 1
         },
         {
             "position": {
