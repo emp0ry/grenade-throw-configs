@@ -55,7 +55,7 @@
                 "x": -45.855,
                 "y": -134.444
             },
-            "name1": "Short, Kitchen, Door",
+            "name1": "Short, Window, Door",
             "name2": "Short",
             "type": 1, 
             "style": 0
@@ -71,7 +71,7 @@
                 "y": -147.041
             },
             "name1": "",
-            "name2": "Kitchen",
+            "name2": "Window",
             "type": 1, 
             "style": 1
         },
