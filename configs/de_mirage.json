@@ -12,7 +12,7 @@
             },
             "name1": "Conector, Window",
             "name2": "Conector",
-            "type": 1,
+            "type": 2,
             "style": 1
         },
         {
@@ -27,7 +27,7 @@
             },
             "name1": "",
             "name2": "Window",
-            "type": 1,
+            "type": 2,
             "style": 1
         },
         {
@@ -42,7 +42,7 @@
             },
             "name1": "Conector",
             "name2": "Conector",
-            "type": 1,
+            "type": 2,
             "style": 1
         },
         {
@@ -57,7 +57,7 @@
             },
             "name1": "Short, Window, Door",
             "name2": "Short",
-            "type": 1, 
+            "type": 2, 
             "style": 0
         },
         {
@@ -72,7 +72,7 @@
             },
             "name1": "",
             "name2": "Window",
-            "type": 1, 
+            "type": 2, 
             "style": 1
         },
         {
@@ -87,7 +87,7 @@
             },
             "name1": "",
             "name2": "Door",
-            "type": 1, 
+            "type": 2, 
             "style": 1
         },
         {
@@ -102,7 +102,7 @@
             },
             "name1": "Start Mid",
             "name2": "Start Mid",
-            "type": 1,
+            "type": 2,
             "style": 0
         },
         {
@@ -117,7 +117,7 @@
             },
             "name1": "Start Mid",
             "name2": "Start Mid",
-            "type": 1,
+            "type": 2,
             "style": 0
         },
         {
@@ -132,7 +132,7 @@
             },
             "name1": "B Plant",
             "name2": "B Plant",
-            "type": 0,
+            "type": 1,
             "style": 1
         },
         {
@@ -147,7 +147,7 @@
             },
             "name1": "Apart",
             "name2": "Apart",
-            "type": 3,
+            "type": 4,
             "style": 0
         },
         {
@@ -162,7 +162,7 @@
             },
             "name1": "Door",
             "name2": "Door",
-            "type": 0,
+            "type": 1,
             "style": 0
         }
     ]
