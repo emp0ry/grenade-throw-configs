@@ -104,6 +104,21 @@
             "name2": "Start Mid",
             "type": 1,
             "style": 0
+        },
+        {
+            "position": {
+                "x": 1422.972412,
+                "y": 70.970146,
+                "z": -112.468750
+            },
+            "angle": {
+                "x": -37.857178,
+                "y": -161.454742
+            },
+            "name1": "Start Mid",
+            "name2": "Start Mid",
+            "type": 1,
+            "style": 0
         }
     ]
 }
